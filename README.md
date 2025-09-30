@@ -1,1 +1,0 @@
-# Parantar-Dictionary-API
